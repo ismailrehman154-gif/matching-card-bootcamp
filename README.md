@@ -2,6 +2,8 @@
 
 A memory game: ten face-down cards, five pairs (fish, bird, dino, watch, cat). Flip two at a time. Match them and they stay up, miss and they flip back. Hit reset to reshuffle.
 
+**Live site:** https://matching-card-bootcamp.vercel.app
+
 ![Matching Cards screenshot](screenshot.jpg)
 
 ## How the code works
